@@ -1,0 +1,13 @@
+{
+    "mod_id": "unity_explorer",
+    "author": "Cheese",
+    "name": "Unity Explorer for SpaceWarp 0.2.0",
+    "description": "A space warp based launcher for Unity Explorer",
+    "source": "",
+    "version": "1.0.0",
+    "dependencies": [],
+    "ksp2_version": {
+        "min": "*",
+        "max": "*"
+    }
+}
